@@ -1,0 +1,50 @@
+.jumbotrondepan {
+  background-image: url("bgfront");
+  background-size: cover;
+  height: 600px;
+  -webkit-background-size: 100% 100%;
+  -moz-background-size: 100% 100%;
+  -o-background-size: 100% 100%;
+  background-size: 100% 100%;
+}
+
+.jumbotronhalaman {
+  background-image: url("bgfront.png");
+  background-size: cover;
+  height: 200px;
+}
+
+.teksjudul {
+  font-size: 70px;
+}
+
+.footer {
+  margin-top: 50px;
+  height: 50px;
+  background-color: aqua;
+}
+
+.judul {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.tentangkami {
+  height: 250px;
+  background-size: cover;
+}
+
+.jumbotronhome {
+  background-image: url("foto/bgungu.jpg");
+  background-size: cover;
+  height: 200px;
+}
+
+.teksjudulhome {
+  font-size: 70px;
+}
+
+.judulhome {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
